@@ -1,0 +1,5 @@
+Estou escrevendo nesse arquivo.
+Estou gostando de aprender python.
+Vale lembrar que ele reescreveu o texto.
+Não sabia que ele ia sobreescrever o texto.
+Mas faz sentido por que o cursor não foi configurado.
