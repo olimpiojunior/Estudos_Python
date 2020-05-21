@@ -156,3 +156,4 @@ lamp1 = Lampada('vermelha', 120, 'alta')
 
 print(lamp1.definicao())
 print(lamp1._Lampada__privado)
+
